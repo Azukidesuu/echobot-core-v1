@@ -1,2 +1,4 @@
 ccxt
 matplotlib
+gspread
+oauth2client
